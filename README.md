@@ -1,22 +1,53 @@
-# ☁️ Cloud Job Data Analysis
+# Python Data Analysis Projects
 
-This project analyzes cloud computing job demand using Python.
+This repository contains beginner data analysis projects built using Python, Pandas, and Matplotlib.
 
-## Tools Used
+The goal of these projects is to explore datasets, identify patterns, and visualize insights.
+
+---------------------------------------------------------------------------------------
+
+## Project 1: Cloud Job Market Analysis
+
+This project analyzes demand for major cloud platforms using a dataset of cloud-related job roles.
+
+Key insights explored:
+- Demand for AWS vs Azure vs Google Cloud
+- Visualization of cloud job trends
+
+Tools used:
 - Python
 - Pandas
 - Matplotlib
 
-## What This Project Does
-- Reads job data from CSV
-- Counts cloud platform demand (AWS, Azure, GCP)
-- Counts top technical skills
-- Visualizes results with bar charts
+Files:
+- project.py
+- cloud_jobs.csv
 
-## Sample Output
-Cloud Platform Demand:
-AWS leads job postings, followed by Azure and GCP.
+--------------------------------------------------------------------------------------------------
+## Project 2: Student Performance Analysis
 
-## Files
-- project.py → analysis code
-- cloud_jobs.csv → dataset
+This project analyzes how study habits and attendance impact student grades.
+
+Key insights explored:
+- Relationship between study hours and final grades
+- Student attendance patterns
+- Data visualization using scatter plots and bar charts
+
+Tools used:
+- Python
+- Pandas
+- Matplotlib
+
+Files:
+- student-performance.py
+- students.csv
+
+---
+
+## Skills Demonstrated
+
+- Data analysis with Python
+- Data visualization
+- Working with CSV datasets
+- Using Pandas for data processing
+- Creating charts with Matplotlib
